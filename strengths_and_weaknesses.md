@@ -3,4 +3,5 @@
 - Facilitates collaborative working
 
 # Weaknesses
+- Difficult to learn for beginners
 
