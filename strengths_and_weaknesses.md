@@ -4,4 +4,5 @@
 
 # Weaknesses
 - Difficult to learn for beginners
+- Not effient for tracking large binary files
 
